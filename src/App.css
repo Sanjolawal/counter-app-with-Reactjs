@@ -1,5 +1,41 @@
-.main-height{
+.main{
   background-color: lightblue;
+  width: 100vw;
   height: 100vh;
-  width: 100%;
+}
+p{
+ margin: 0 45vw 0 49vw;
+ padding-top: 20vh;
+ font-size: 6rem;
+}
+.btn{
+  margin: 8vh  0vw 0 40vw;
+  font-size: 4rem;
+}
+.btn1{
+ position: absolute;
+ left: 34vw;
+ background-color: black;
+ color: white;
+ width: 8vw;
+ height: 3vh;
+ border-radius: 7px;
+}
+.btn2{
+ position: absolute;
+ left: 47vw;
+ background-color: black;
+ color: white;
+ width: 8vw;
+ height: 3vh;
+ border-radius: 7px;
+}
+.btn3{
+ position: absolute;
+ left: 60vw;
+ background-color: black;
+ color: white;
+ width: 8vw;
+ height: 3vh;
+ border-radius: 7px;
 }

@@ -1,11 +1,11 @@
 import './App.css';
 import React from 'react';
-import Pratice from "./main.js"
+import Main from './main.js'
 function App() {
   return (
-    <div>
-       <Pratice/>
-    </div>
+    <section>
+       <Main/>
+    </section>
   );
 }
 
